@@ -3,7 +3,7 @@
  and includes micro-clearfix by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/
  */
 
-html {
+html {                                     
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
