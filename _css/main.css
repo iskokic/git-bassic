@@ -2,7 +2,11 @@
  based partially from normalize.css v3.0.0 | MIT License | git.io/normalize 
  and includes micro-clearfix by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/
  */
-        /* font declarations */
+ 
+ /*test bag fix*/
+ 
+ 
+ /* font declarations */
 @font-face {
     font-family: 'bitter';
     src: url('../_fonts/bitter-regular.eot');
